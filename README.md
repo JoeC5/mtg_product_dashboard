@@ -1,6 +1,6 @@
 # Mortgage Origination Portal — KPI Data Dictionary
 
-**Database:** `mortgage_portal_kpi` &nbsp;|&nbsp; **Version:** 1.0 &nbsp;|&nbsp; **Generated:** June 2025
+**Database:** `mortgage_portal_kpi` &nbsp;|&nbsp; **Version:** 1.0 &nbsp;|&nbsp; **Generated:** June 2025 (mock)
 
 ---
 
