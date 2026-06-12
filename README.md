@@ -22,6 +22,7 @@ While reviewing a job description for a product management role at a national mo
 
 That description maps directly to the four measurement dimensions in this project. This dashboard is what that responsibility looks like when built.
 
+![Mortgage Portal KPI Dashboard](assets/dashboard_screenshot.png)
 ---
 
 ## Tech Stack
