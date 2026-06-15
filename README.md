@@ -6,13 +6,13 @@ A portfolio project demonstrating end-to-end data product development: synthetic
 
 ## The Problem
 
-Product teams at mortgage companies are drowning in data but starving for insight. Loan origination, marketing, IT, and secondary marketing each track their own metrics — but no single view connects engagement, conversion, customer satisfaction, and delivery health in a way that drives action.
+Product teams at mortgage companies are drowning in data but starving for insight. Loan origination, marketing, IT, and secondary marketing each track their own metrics  but no single view connects engagement, conversion, customer satisfaction, and delivery health in a way that drives action.
 
 ## The Solution
 
-An automated reporting layer that synthesizes quantitative metrics with qualitative product events. When a chart shows an anomaly, the dashboard surfaces the *why* — a product release, an outage, a rate environment shift — not just the *what*.
+An automated reporting layer that synthesizes quantitative metrics with qualitative product events. When a chart shows an anomaly, the dashboard surfaces the *why* (a product release, an outage, a rate environment shift) not just the *what*.
 
-The result: mortgage product managers and business leaders get a single view across engagement, conversion, satisfaction, and delivery health — with every metric movement tied to a business event.
+The result: mortgage product managers and business leaders get a single view across engagement, conversion, satisfaction, and delivery health  with every metric movement tied to a business event.
 
 ## The Inspiration
 
@@ -72,7 +72,7 @@ Five tables, 1,127 total rows:
 
 ### Realism Layers Built Into the Data
 
-The synthetic data is not random noise — it follows behavioral patterns grounded in how mortgage origination actually works:
+The synthetic data is not random noise it follows behavioral patterns grounded in how mortgage origination actually works:
 
 - **Seasonality curve:** Spring (March–June) is peak demand at ~1.25–1.30× baseline. Winter (December–February) slows to ~0.70–0.75× baseline.
 - **Weekend suppression:** DAU and application starts drop to ~45% and ~30% of weekday values on Saturdays and Sundays.
