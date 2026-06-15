@@ -174,6 +174,10 @@ The dashboard opens at `http://localhost:8501` by default.
 
 The next phase of the project adds a Claude-powered AI narrative agent to the dashboard. Rather than requiring a user to read four sections of charts and synthesize the story themselves, the agent will generate a plain-English executive briefing on demand — interpreting current metric levels, flagging anomalies, and surfacing the relevant product events that explain them.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ---
 
 ## Disclaimer
